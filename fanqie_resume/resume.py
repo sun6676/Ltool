@@ -4,7 +4,7 @@ import img2pdf
 import os
 
 
-url = "https://www.fanqiecv.com/resume/edit/I3WiK6QFSBduPul7"
+url = "https://www.fanqiecv.com/resume/xxxxxxxxx"  # 替换为你的简历链接
 
 
 with sync_playwright() as p:
